@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
-        int n = nums.length;
+              int n = nums.length;
        /* List<Integer> ans = new ArrayList<>();
         Arrays.sort(nums);
         for(int i = 0; i < n; i++){
@@ -19,6 +19,7 @@ class Solution {
             ans.add(less + i);
         }
         return ans;
+        
         
     }
 }
