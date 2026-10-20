@@ -11,6 +11,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
