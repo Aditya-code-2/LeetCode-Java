@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
