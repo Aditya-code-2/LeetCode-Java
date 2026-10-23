@@ -13,6 +13,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
