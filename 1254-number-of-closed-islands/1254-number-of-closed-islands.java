@@ -29,21 +29,20 @@ class Solution {
 
     void dfs(int[][] grid, int i, int j) {
 
-        // Boundary touch ki toh closed island nahi hai
+        
         if (i < 0 || j < 0 || i >= rows || j >= cols) {
             isClosed = false;
             return;
         }
 
-        // Water ya already visited cell
+        
         if (grid[i][j] == 1) {
             return;
         }
 
-        // Visited mark kar diya
+        
         grid[i][j] = 1;
 
-        // 4 directions mein DFS
         dfs(grid, i - 1, j);
         dfs(grid, i + 1, j);
         dfs(grid, i, j - 1);
