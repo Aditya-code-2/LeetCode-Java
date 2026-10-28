@@ -20,6 +20,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -73,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0069-sqrtx) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 ## Depth-First Search
 |  |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
