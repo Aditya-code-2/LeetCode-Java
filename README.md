@@ -14,6 +14,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
