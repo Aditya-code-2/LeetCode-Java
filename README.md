@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -95,6 +97,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -119,4 +122,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
