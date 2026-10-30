@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0169-majority-element) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0169-majority-element) |
 ## Divide and Conquer
