@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0069-sqrtx) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 ## Depth-First Search
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
