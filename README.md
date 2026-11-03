@@ -21,6 +21,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0002-add-two-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0069-sqrtx) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Depth-First Search
 |  |
 | ------- |
