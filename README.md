@@ -73,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
@@ -90,6 +91,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0069-sqrtx) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -167,4 +169,12 @@
 |  |
 | ------- |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
