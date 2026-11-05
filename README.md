@@ -16,6 +16,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-available-captures-for-rook](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0999-available-captures-for-rook) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -32,6 +33,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -48,6 +50,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
