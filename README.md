@@ -75,6 +75,7 @@
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
+| [2437-number-of-valid-clock-times](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2437-number-of-valid-clock-times) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
@@ -164,6 +165,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2437-number-of-valid-clock-times](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2437-number-of-valid-clock-times) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Number Theory
 |  |
