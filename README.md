@@ -80,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
@@ -88,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -141,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3665-twisted-mirror-path-count) |
@@ -202,4 +205,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
