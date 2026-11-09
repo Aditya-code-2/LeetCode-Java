@@ -85,6 +85,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2437-number-of-valid-clock-times) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -95,6 +96,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Bit Manipulation
 |  |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Memoization
 |  |
 | ------- |
