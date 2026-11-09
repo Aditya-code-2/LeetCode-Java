@@ -19,6 +19,7 @@
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0999-available-captures-for-rook) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Prefix Sum
 |  |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1882-process-tasks-using-servers) |
 ## Quickselect
 |  |
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
