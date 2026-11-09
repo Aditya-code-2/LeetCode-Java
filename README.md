@@ -113,12 +113,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -216,4 +218,12 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
