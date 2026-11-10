@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-available-captures-for-rook](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0999-available-captures-for-rook) |
+| [1089-duplicate-zeros](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -95,6 +96,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2903-find-indices-with-index-and-value-difference-i) |
