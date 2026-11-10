@@ -115,6 +115,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
@@ -224,9 +225,15 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
