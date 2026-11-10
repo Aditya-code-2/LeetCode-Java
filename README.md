@@ -29,6 +29,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Binary Search
@@ -156,6 +157,7 @@
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
