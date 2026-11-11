@@ -115,6 +115,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Depth-First Search
 |  |
@@ -168,6 +169,7 @@
 | ------- |
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Memoization
 |  |
 | ------- |
