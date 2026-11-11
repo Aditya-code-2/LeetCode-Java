@@ -4,9 +4,12 @@ class Solution {
         dp[0] = 1;
         dp[1] = 1;
 
-        for(int nodes = 2; nodes <= n; nodes++){ 
+       for(int nodes = 2; nodes <= n; nodes++){
             for(int root = 1; root <= nodes; root++){
-                dp[nodes] += dp[root - 1] * dp[nodes - root];
+                int left = root - 1;
+                int right = nodes - root;
+                dp[nodes] += dp[left] * dp[right];
+
             }
         }
         return dp[n];
