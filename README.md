@@ -52,6 +52,7 @@
 | [0001-two-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -276,4 +279,8 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0098-validate-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
