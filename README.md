@@ -130,6 +130,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -251,6 +253,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
