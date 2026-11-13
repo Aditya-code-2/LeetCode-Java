@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1089-duplicate-zeros) |
@@ -122,6 +124,7 @@
 | [0002-add-two-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
