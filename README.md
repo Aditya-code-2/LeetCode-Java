@@ -31,6 +31,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3665-twisted-mirror-path-count) |
@@ -91,6 +92,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
