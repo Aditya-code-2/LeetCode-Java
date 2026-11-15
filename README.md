@@ -24,6 +24,7 @@
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
@@ -128,6 +130,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -182,6 +185,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3693-climbing-stairs-ii) |
