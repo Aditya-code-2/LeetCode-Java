@@ -86,6 +86,7 @@
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0999-available-captures-for-rook) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Prefix Sum
 |  |
@@ -103,6 +104,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2437-number-of-valid-clock-times) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
