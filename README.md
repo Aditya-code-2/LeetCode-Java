@@ -129,6 +129,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0509-fibonacci-number) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
@@ -202,6 +204,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0509-fibonacci-number) |
 ## Newton's Method
