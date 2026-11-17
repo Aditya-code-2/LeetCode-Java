@@ -7,7 +7,8 @@ class Solution {
         Arrays.fill(dp, -1);
 
        // return topDown(n, dp);
-       return topUp(n);
+       //return topUp(n);
+       return opti(n);
     }
     //Top Down Approach
     public int topDown(int n, int[] dp) {
@@ -27,18 +28,33 @@ class Solution {
     }
     //Top Up Approach
    
-public int topUp(int n) {
+    public int topUp(int n) {
 
-    int[] dp = new int[n + 1];
+        int[] dp = new int[n + 1];
 
-    dp[0] = 1;
-    dp[1] = 1;
+        dp[0] = 1;
+        dp[1] = 1;
 
-    for (int i = 2; i <= n; i++) {
-        dp[i] = dp[i - 1] + dp[i - 2];
+        for (int i = 2; i <= n; i++) {
+            dp[i] = dp[i - 1] + dp[i - 2];
+        }
+
+        return dp[n];
     }
+    public int opti(int n){
+        
+        if(n == 0) return 1;
+        if(n <= 2) return n;
 
-    return dp[n];
-}
+        int first = 1;
+        int sec = 1;
+        for(int i = 2; i <= n; i++){
+           int res = first + sec;
+           first = sec;
+           sec = res;
+
+        }
+        return sec;
+    }
 
 }
