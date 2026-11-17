@@ -7,7 +7,8 @@ class Solution {
       // int dp[] = new int[n+1];
        //Arrays.fill(dp, -1);
         //return fibMemo(n, dp);
-        return fiboOpti(n);
+       // return fiboOpti(n);
+       return fiboSpace(n);
         
     }
     //DP memoization
@@ -37,6 +38,22 @@ class Solution {
             dp[i] = dp[i-1] + dp[i - 2];
         }
         return dp[n];
+    }
+
+    //space optimization
+    public int fiboSpace(int n){
+        if(n == 0) return n;
+
+        int prev1 = 1;
+        int prev2 = 0;
+        
+        for(int i = 2; i <= n; i++){
+            int curr = prev1 + prev2;
+
+            prev2 = prev1;
+            prev1 = curr;
+        }
+        return prev1;
     }
   
 }
