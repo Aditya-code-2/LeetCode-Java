@@ -30,6 +30,7 @@
 | [1882-process-tasks-using-servers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -72,6 +73,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | ------- |
 | [0397-integer-replacement](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0397-integer-replacement) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Memoization
 |  |
