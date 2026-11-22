@@ -40,6 +40,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Binary Search
 |  |
@@ -183,6 +184,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3665-twisted-mirror-path-count) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
 | ------- |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0020-valid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
