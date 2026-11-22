@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -300,6 +301,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0227-basic-calculator-ii) |
 ## Binary Search Tree
@@ -312,4 +314,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
