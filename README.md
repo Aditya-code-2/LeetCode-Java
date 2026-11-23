@@ -24,6 +24,7 @@
 | [1089-duplicate-zeros](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3364-minimum-positive-sum-subarray) |
@@ -143,6 +145,7 @@
 | [0227-basic-calculator-ii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0227-basic-calculator-ii) |
 | [0509-fibonacci-number](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -324,4 +327,12 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/3898-find-the-degree-of-each-vertex) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-code-2/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
